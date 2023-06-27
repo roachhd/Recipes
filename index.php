@@ -10,7 +10,7 @@
 
 		<!-- font and styles -->
 		<link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,700,700i,900" rel="stylesheet"> 
-		<link href="http://katieball.me/Recipes/stylesheet.css" rel="stylesheet" type="text/css">
+		<link href="http://roachhd.github.io/Recipes/stylesheet.css" rel="stylesheet" type="text/css">
 
 		<!-- jquery -->
 		<!-- loads the recipes and adds the selected one below -->
@@ -56,7 +56,7 @@
 	</script>
 	
 	<!-- javascript does the rest :) -->
-	<script src="http://katieball.me/Recipes/utils.js"></script>
-	<script src="http://katieball.me/Recipes/list-recipes.js"></script>
+	<script src="http://roachhd.github.io/Recipes/utils.js"></script>
+	<script src="http://roachhd.github.io/Recipes/list-recipes.js"></script>
 </html>
 
