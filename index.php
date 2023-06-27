@@ -56,7 +56,7 @@
 	</script>
 	
 	<!-- javascript does the rest :) -->
-	<script src="utils.js"></script>
-	<script src="list-recipes.js"></script>
+	<script src="http://katieball.me/Recipes/utils.js"></script>
+	<script src="http://katieball.me/Recipes/list-recipes.js"></script>
 </html>
 
