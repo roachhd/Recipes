@@ -1,7 +1,7 @@
 # Aloo Matar  
 
 ## info  
-* About 45 minutes  
+* About 45 minutes or so
 * 4 servings as part of a meal with other dishes  
 
 ## ingredients

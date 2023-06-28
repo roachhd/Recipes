@@ -9,7 +9,7 @@
 * 1/4 cup chopped parsley  
 * Kosher salt  
 * Optional: 1/4–1/2 tsp cumin powder  
-* Optional: a few drops of liquid smoke  
+* Optional: a few drops of liquid smoke  yoyoyo
 * Optional: garnish with zaatar and/or Aleppo chile flakes  
 
 ## steps
